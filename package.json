@@ -1,0 +1,15 @@
+{
+  "name": "coding_interview_bootcamp",
+  "version": "1.0.0",
+  "description": "The Coding Interview Bootcamp: Algorithms + Data Structures course by Stephen Grider on Udemy",
+  "main": "index.js",
+  "scripts": {
+    "test": "npx jest --watch"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
